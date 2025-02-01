@@ -1,4 +1,5 @@
-Нужен ```node.js```\
+[![node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/en)\
+Ставить ```node.js```\
 Создаете директорию \
 Копируете туда фаил ```index.js```\
 Заходим терминалом эту директорию ```например- cd c:\py*** ```\
